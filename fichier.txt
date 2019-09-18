@@ -1,3 +1,5 @@
 Premier pj
 Git c'est pas si ouf
 Texte depuis la deuxième branhce (local-1)
+J'ajoute du texte depuis la branhce local pour ensuite la merge sur master
+
