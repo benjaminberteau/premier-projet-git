@@ -1,1 +1,2 @@
 Création du deuxième fichier
+Je m'entraîne avec Git et Git Hub
